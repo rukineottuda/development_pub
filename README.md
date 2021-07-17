@@ -1,2 +1,2 @@
 # development_pub
-publick dev
+development public version
